@@ -127,9 +127,5 @@ docker run -d \
 - If you encounter issues, check Docker logs and error messages for troubleshooting.
 
 ```
-## Result
 
-<img width="987" height="749" alt="image" src="https://github.com/user-attachments/assets/9ca98525-33f8-4a9a-b2aa-7d1ae6ceaff3" />
-
-<img width="572" height="868" alt="image" src="https://github.com/user-attachments/assets/1d0cdf7b-d874-435f-ab7b-3573e589484c" />
 
